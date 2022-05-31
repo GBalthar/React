@@ -1,0 +1,22 @@
+.wrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+    width: 10%;
+}
+
+.botaomenos{
+    background-color: red;
+    color: white;
+    border-color: grey;
+    border-radius: 25%;
+}
+
+.botaomais{
+    background-color: red;
+    color: white;
+    border-color: grey;
+    border-radius: 25%;
+}
